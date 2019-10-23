@@ -61,7 +61,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.22</version>
+            <version>1.2.25</version>
         </dependency>
 
         <dependency>
@@ -95,16 +95,4 @@
             </plugin>
         </plugins>
     </build>
-    <distributionManagement>
-        <repository>
-            <id>xajs</id>
-            <name>Nexus Release Repository</name>
-            <url>http://192.168.1.99:8080/repository/xajiusuo</url>
-        </repository>
-        <snapshotRepository>
-            <id>xajs</id>
-            <name>Nexus Snapshot Repository</name>
-            <url>http://192.168.1.99:8080/repository/xajiusuo</url>
-        </snapshotRepository>
-    </distributionManagement>
 </project>
