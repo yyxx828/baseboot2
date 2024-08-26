@@ -18,7 +18,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <httpClient.version>4.5.3</httpClient.version>
-        <swagger.springfox>2.9.2</swagger.springfox>
+        <swagger.springfox>2.10.0</swagger.springfox>
     </properties>
 
     <dependencies>
